@@ -41,4 +41,11 @@ https://ti.to/iOS-meetups/ladies-at-wwdc
 |     Intuit, Netflix, Reddit, Snap and Twilio | 6th June  | free (first come, first served type) |
 
 
+### Apps Camp for Girls - Live Near WWDC 
+(Live Near WWDC)[https://livenearwwdc.com]
+
+
+| Sponser |   The Ritz, 400 S. First Street, San Jose | 
+| Price | 35$ and 125$ |
+|  Date |  June 5th 7:00 PM - 11:00 PM  | 
 
