@@ -16,4 +16,6 @@ There are many events for women in WWDC. There are dinner sponsered by Netflix a
 
 You are see more information about it here: 
 
-https://t.co/4Gv0dHq0N3n
+https://ti.to/iOS-meetups/ladies-at-wwdc 
+
+__Sponser__ - Intuit, Netflix, Reddit, Snap and Twilio 
