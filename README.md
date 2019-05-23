@@ -12,9 +12,6 @@ __________________________________________________
 You can book for Loop bash [here](https://ti.to/jim-dalrymple/the-loop-bash-at-wwdc/en). 
 Note: This event requires you to be 21+
 Location:  The Ritz Nightclub, 400 South 1st Street San Jose. 
-| Time        | Date           | Price  |
-| ------------- |:-------------:| -----:| 
-|  15 Minutes   | 3th June  | Around 9:30AM - 5AM |
 
 | Time        | Date           | 
 | ------------- |:-------------:| 
