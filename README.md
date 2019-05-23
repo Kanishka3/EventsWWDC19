@@ -8,17 +8,25 @@ Coming Soon
 __________________________________________________ 
 
 
+### 🥳 The Loop Bash 
+You can book for Loop bash [here](https://ti.to/jim-dalrymple/the-loop-bash-at-wwdc/en). 
+Note: This event requires you to be 21+
+Location:  The Ritz Nightclub, 400 South 1st Street San Jose. 
+| Time        | Date           | Price  |
+| ------------- |:-------------:| -----:| 
+|  15 Minutes   | 3th June  | Around 9:30AM - 5AM |
+
 ## Miscelaneous 
-### Escape the room 
+### 🔒 Escape the room 
 
 You can book a ticket for Escape the room aka Apple themed puzzle rooms which is being organized with altConf. 
 http://escapethekeynote.how/
  
-| Time        | Date           | Price  |
+| Time        | Date           | Time to come  |
 | ------------- |:-------------:| -----:| 
 |  15 Minutes   | 4-6th June  | Around 9:30AM - 5AM |
 
-(Schedule)[http://altconf.com/schedule/]
+[Schedule](http://altconf.com/schedule/)
 
 
 __________________________________________________ 
@@ -29,7 +37,7 @@ __________________________________________________
 
 There are many events for women in WWDC. There are dinner sponsered by Netflix and reddit. 
 
-(Ladies @ WWDC)[https://www.twitter.com/LadiesAtWWDC]
+[Ladies @ WWDC](https://www.twitter.com/LadiesAtWWDC)
 
 You are see more information about it here: 
 
