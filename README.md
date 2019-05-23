@@ -16,6 +16,10 @@ Location:  The Ritz Nightclub, 400 South 1st Street San Jose.
 | ------------- |:-------------:| -----:| 
 |  15 Minutes   | 3th June  | Around 9:30AM - 5AM |
 
+| Time        | Date           | 
+| ------------- |:-------------:| 
+|  After 8PM   | 3rd June  | 
+
 ## Miscelaneous 
 ### 🔒 Escape the room 
 
