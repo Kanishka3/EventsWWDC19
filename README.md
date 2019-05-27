@@ -29,6 +29,17 @@ http://escapethekeynote.how/
 
 [Schedule](http://altconf.com/schedule/)
 
+### Breakfast burritos with Embrace 
+
+You may check out of breakfast burritors [here](https://www.eventbrite.com/e/breakfast-burritos-with-embrace-tickets-62308195490?aff=Pete)
+
+Location:
+McEnery Convention Center
+150 West San Carlos Street
+San Jose, CA 95113
+United States
+
+Data- 4 June and 5 June, morning
 
 __________________________________________________ 
 
