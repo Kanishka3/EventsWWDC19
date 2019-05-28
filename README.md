@@ -17,7 +17,7 @@ Location:  The Ritz Nightclub, 400 South 1st Street San Jose.
 | ------------- |:-------------:| 
 |  After 8PM   | 3rd June  | 
 
-## sjMacIndie 
+## 👨🏼‍💻 sjMacIndie 
 [sjMacIndie](http://sfmacindie.com/) is a premium networking conference for independent developer. 
 
 | Time        | Date           | Prie |
@@ -39,7 +39,7 @@ http://escapethekeynote.how/
 
 [Schedule](http://altconf.com/schedule/)
 
-### Breakfast burritos with Embrace 
+### 🌯 Breakfast burritos with Embrace 
 
 You may check out of breakfast burritors [here](https://www.eventbrite.com/e/breakfast-burritos-with-embrace-tickets-62308195490?aff=Pete)
 
@@ -71,7 +71,7 @@ https://ti.to/iOS-meetups/ladies-at-wwdc
 |     Intuit, Netflix, Reddit, Snap and Twilio | 6th June  | free (first come, first served type) |
 
 
-### Apps Camp for Girls - Live Near WWDC 
+### 🏃🏻‍♀️ Apps Camp for Girls - Live Near WWDC 
 [Live Near WWDC](https://livenearwwdc.com)
 
 | Place        | Date           | Price  |
