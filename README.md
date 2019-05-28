@@ -17,6 +17,16 @@ Location:  The Ritz Nightclub, 400 South 1st Street San Jose.
 | ------------- |:-------------:| 
 |  After 8PM   | 3rd June  | 
 
+## sjMacIndie 
+[sjMacIndie](http://sfmacindie.com/) is a premium networking conference for independent developer. 
+
+| Time        | Date           | Prie |
+| ------------- |:-------------:| -----:| 
+|  5-9 PM   | 2 June  | 10$ (pay when you visit)|
+
+Address: 
+420 South 1st Street San Jose, CA 95113
+
 ## Miscelaneous 
 ### 🔒 Escape the room 
 
@@ -25,7 +35,7 @@ http://escapethekeynote.how/
  
 | Time        | Date           | Time to come  |
 | ------------- |:-------------:| -----:| 
-|  15 Minutes   | 4-6th June  | Around 9:30AM - 5AM |
+|  15 Minutes   | 4-6th June  | Around 9:30AM - 5PM |
 
 [Schedule](http://altconf.com/schedule/)
 
